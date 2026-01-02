@@ -51,4 +51,3 @@ This project aims to predict real estate prices in Taiwan using historical data 
 - Use larger and more diverse datasets
 - Hyperparameter optimization
 - Experiment with different model architectures
-- Build a user interface with Streamlit
